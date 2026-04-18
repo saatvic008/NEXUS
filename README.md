@@ -1,5 +1,12 @@
 # NEXUS
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Simulation-based intelligent assistant using adaptive learning, probabilistic decision-making, and real-time system automation.
+
 # NEXUS — Intelligent Voice-Activated System Control Assistant
 
 **An AI-powered, voice-unlocked, voice-operated computer control system with simulation-based decision intelligence.**
