@@ -1,0 +1,1036 @@
+{
+    "interactions": [
+        {
+            "timestamp": "2026-03-20T08:35:45.298202",
+            "command": "open notepad",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'notepad'}",
+            "response": "Opening notepad.",
+            "success": true,
+            "session_id": "1773975851"
+        },
+        {
+            "timestamp": "2026-03-20T09:01:36.719782",
+            "command": "send whatsapp message to peer baba saying whatsapp bro",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'peer baba', 'whatsapp_message': 'whatsapp bro'}",
+            "response": "WhatsApp message sent to peer baba: 'whatsapp bro'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:02:05.659274",
+            "command": "send whatsapp message to queen papa saying whatsapp",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'queen papa', 'whatsapp_message': 'whatsapp'}",
+            "response": "WhatsApp message sent to queen papa: 'whatsapp'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:02:20.147951",
+            "command": "send whatsapp",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:02:29.376937",
+            "command": "open notepad",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'notepad'}",
+            "response": "Opening notepad.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:02:36.785361",
+            "command": "type hi chetan",
+            "intent": "browser_control",
+            "action_taken": "{'text_to_type': 'hi chetan'}",
+            "response": "Typed: 'hi chetan'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:02:51.130337",
+            "command": "close notepad",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'notepad'}",
+            "response": "Opening notepad.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:02:57.657680",
+            "command": "i said close notepad",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'notepad'}",
+            "response": "Opening notepad.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:03:36.995678",
+            "command": "send whatsapp message to amma saying hi",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'amma', 'whatsapp_message': 'hi'}",
+            "response": "WhatsApp message sent to amma: 'hi'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:03:45.011076",
+            "command": "send whatsapp message to mum say hi",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:04:36.070863",
+            "command": "send whatsapp message to mum say hey",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:04:56.708683",
+            "command": "open notepad and type hi",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'notepad'}",
+            "response": "Opening notepad.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:05:08.136632",
+            "command": "type hi",
+            "intent": "browser_control",
+            "action_taken": "{'text_to_type': 'hi'}",
+            "response": "Typed: 'hi'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:05:16.587215",
+            "command": "type chetan",
+            "intent": "browser_control",
+            "action_taken": "{'text_to_type': 'chetan'}",
+            "response": "Typed: 'chetan'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:05:39.753431",
+            "command": "open whatsapp and",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'whatsapp and'}",
+            "response": "Trying to open whatsapp and.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:06:11.231580",
+            "command": "send whatsapp message to queen papa saying hey bro",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'queen papa', 'whatsapp_message': 'hey bro'}",
+            "response": "WhatsApp message sent to queen papa: 'hey bro'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:06:19.494872",
+            "command": "to queen papa saying hey bro",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:06:53.395792",
+            "command": "send whatsapp message to queen papa saying hey bro",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'queen papa', 'whatsapp_message': 'hey bro'}",
+            "response": "WhatsApp message sent to queen papa: 'hey bro'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:07:01.164533",
+            "command": "message to amma saying",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:07:17.490189",
+            "command": "passing",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:07:45.978125",
+            "command": "send whatsapp message to queen papa saying hi",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'queen papa', 'whatsapp_message': 'hi'}",
+            "response": "WhatsApp message sent to queen papa: 'hi'.",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:07:52.331262",
+            "command": "nexus stopped",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773977398"
+        },
+        {
+            "timestamp": "2026-03-20T09:13:12.925090",
+            "command": "send whatsapp message to papa saying hey bro",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'papa', 'whatsapp_message': 'hey bro'}",
+            "response": "WhatsApp message sent to papa: 'hey bro'.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T09:13:48.362263",
+            "command": "send message to send whatsapp message to papa saying hey bro",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'send whatsapp message to papa', 'whatsapp_message': 'hey bro'}",
+            "response": "WhatsApp message sent to send whatsapp message to papa: 'hey bro'.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T09:14:17.410578",
+            "command": "send whatsapp message to papa saying hey bro",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'papa', 'whatsapp_message': 'hey bro'}",
+            "response": "WhatsApp message sent to papa: 'hey bro'.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T09:15:00.921318",
+            "command": "open youtube",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'youtube'}",
+            "response": "Trying to open youtube.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T09:15:21.097222",
+            "command": "open chrome and open youtube",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T09:15:34.162375",
+            "command": "open youtube",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'youtube'}",
+            "response": "Trying to open youtube.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T09:15:42.969133",
+            "command": "send whatsapp message to papa",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T09:16:15.683594",
+            "command": "send whatsapp message to papa saying hi",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'papa', 'whatsapp_message': 'hi'}",
+            "response": "WhatsApp message sent to papa: 'hi'.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T09:16:46.418934",
+            "command": "send message to papa saying hi in whatsapp",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'papa', 'whatsapp_message': 'hi in whatsapp'}",
+            "response": "WhatsApp message sent to papa: 'hi in whatsapp'.",
+            "success": true,
+            "session_id": "1773978122"
+        },
+        {
+            "timestamp": "2026-03-20T11:48:36.897484",
+            "command": "chitra vichitra matar",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:48:50.083882",
+            "command": "comment comment",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:49:00.867853",
+            "command": "nagpur",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:49:05.009523",
+            "command": "and channel ko",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:49:20.831587",
+            "command": "open chrome",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'chrome'}",
+            "response": "Opening chrome.",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:49:36.623286",
+            "command": "open browser",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:49:53.249970",
+            "command": "open notepad and type hi chaitra",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'notepad'}",
+            "response": "Opening notepad.",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:50:03.363134",
+            "command": "chitra",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:50:14.783640",
+            "command": "type in notepad hi chaitra",
+            "intent": "browser_control",
+            "action_taken": "{'text_to_type': 'notepad hi chaitra'}",
+            "response": "Typed: 'notepad hi chaitra'.",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:50:32.584399",
+            "command": "open settings",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'settings'}",
+            "response": "Opening settings.",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:50:45.641295",
+            "command": "open whatsapp",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'whatsapp stop'}",
+            "response": "Trying to open whatsapp stop.",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-03-20T11:50:49.869940",
+            "command": "ok stop",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1773987320"
+        },
+        {
+            "timestamp": "2026-04-01T14:52:54.179179",
+            "command": "open browser",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775034987"
+        },
+        {
+            "timestamp": "2026-04-01T15:11:17.728580",
+            "command": "open chrome",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'chrome'}",
+            "response": "Opening chrome.",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:11:32.052788",
+            "command": "open browser",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:11:43.933719",
+            "command": "send message to",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:12:16.284739",
+            "command": "send message to amma saying hi",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'amma', 'whatsapp_message': 'hi'}",
+            "response": "Cannot send WhatsApp message \u2014 pyautogui not installed.",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:12:34.613554",
+            "command": "send whatsapp message to sing hello",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:13:10.748005",
+            "command": "mithila ke fayde",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:13:20.148195",
+            "command": "original",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:13:27.339173",
+            "command": "industrial actual speaking",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:13:33.479972",
+            "command": "shutdown",
+            "intent": "system_execution",
+            "action_taken": "{}",
+            "response": "I'm not sure what system action to perform.",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T15:13:56.521124",
+            "command": "pin code number",
+            "intent": "system_execution",
+            "action_taken": "{}",
+            "response": "I'm not sure what system action to perform.",
+            "success": true,
+            "session_id": "1775036443"
+        },
+        {
+            "timestamp": "2026-04-01T20:07:24.288136",
+            "command": "open chrome",
+            "intent": "system_execution",
+            "action_taken": "{'application': 'chrome'}",
+            "response": "Opening chrome.",
+            "success": true,
+            "session_id": "1775054218"
+        },
+        {
+            "timestamp": "2026-04-01T20:10:29.119828",
+            "command": "tube.com",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:10:43.591665",
+            "command": "what is the weather",
+            "intent": "question_answering",
+            "action_taken": "{'question': 'what is the weather', 'qa_type': 'weather'}",
+            "response": "Cannot fetch weather \u2014 requests library not installed.",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:11:02.986949",
+            "command": "what is 25 x",
+            "intent": "question_answering",
+            "action_taken": "{'question': 'what is 25 x', 'qa_type': 'general'}",
+            "response": "I don't have enough information to answer that question right now. You can add answers to the knowledge base in data/qa_knowledge.json, or install the wikipedia-api package for online lookups.",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:11:26.421218",
+            "command": "rahul saying hello",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:11:39.755286",
+            "command": "chrome",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:11:53.270710",
+            "command": "dot com",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:12:03.098294",
+            "command": "youtube.com",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:12:10.452344",
+            "command": "youtube.com",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:12:27.225673",
+            "command": "news",
+            "intent": "unknown",
+            "action_taken": "{}",
+            "response": "I'm not sure how to help with that. Could you rephrase?",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:12:39.976925",
+            "command": "turn up the volume",
+            "intent": "system_execution",
+            "action_taken": "{}",
+            "response": "I'm not sure what system action to perform.",
+            "success": true,
+            "session_id": "1775054406"
+        },
+        {
+            "timestamp": "2026-04-01T20:18:31.893491",
+            "command": "open notepad and type",
+            "intent": "system_execution",
+            "action_taken": "{'action': 'open', 'application': 'notepad'}",
+            "response": "Opening notepad.",
+            "success": true,
+            "session_id": "1775054890"
+        },
+        {
+            "timestamp": "2026-04-01T20:18:37.628011",
+            "command": "type hi chetan",
+            "intent": "browser_control",
+            "action_taken": "{'text_to_type': 'hi chetan'}",
+            "response": "Cannot type \u2014 pyautogui not installed.",
+            "success": true,
+            "session_id": "1775054890"
+        },
+        {
+            "timestamp": "2026-04-01T20:19:09.078579",
+            "command": "take a screenshot",
+            "intent": "system_execution",
+            "action_taken": "{'screenshot': True}",
+            "response": "Cannot take screenshot \u2014 pyautogui not installed.",
+            "success": true,
+            "session_id": "1775054890"
+        },
+        {
+            "timestamp": "2026-04-01T20:19:22.627958",
+            "command": "send whatsapp message to amma saying hi",
+            "intent": "browser_control",
+            "action_taken": "{'whatsapp_contact': 'amma', 'whatsapp_message': 'hi'}",
+            "response": "Cannot send WhatsApp message \u2014 pyautogui not installed.",
+            "success": true,
+            "session_id": "1775054890"
+        },
+        {
+            "timestamp": "2026-04-01T20:19:29.933620",
+            "command": "shutdown",
+            "intent": "system_execution",
+            "action_taken": "{'shutdown': True}",
+            "response": "System shutting down in 30 seconds. Say 'cancel shutdown' to abort.",
+            "success": true,
+            "session_id": "1775054890"
+        },
+        {
+            "timestamp": "2026-04-01T20:29:57.121326",
+            "command": "open notepad and type hi",
+            "intent": "system_execution",
+            "action_taken": "{'action': 'open', 'application': 'notepad'}",
+            "response": "Opening notepad.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:30:09.362715",
+            "command": "type hi chetan",
+            "intent": "browser_control",
+            "action_taken": "{'text_to_type': 'hi chetan'}",
+            "response": "Cannot type \u2014 pyautogui not installed.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:30:34.704723",
+            "command": "open chrome",
+            "intent": "system_execution",
+            "action_taken": "{'action': 'open', 'application': 'chrome'}",
+            "response": "Opening chrome.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:30:49.583487",
+            "command": "open browser",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:31:32.483570",
+            "command": "what is 25 times",
+            "intent": "question_answering",
+            "action_taken": "{'question': 'what is 25 times', 'qa_type': 'datetime'}",
+            "response": "The current time is 08:31 PM.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:31:46.355211",
+            "command": "what is time",
+            "intent": "question_answering",
+            "action_taken": "{'question': 'what is time', 'qa_type': 'datetime'}",
+            "response": "The current time is 08:31 PM.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:31:59.917166",
+            "command": "youtube.com",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:32:05.703027",
+            "command": "open youtube.com",
+            "intent": "system_execution",
+            "action_taken": "{'action': 'open', 'application': 'youtube.com'}",
+            "response": "Trying to open youtube.com.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:32:17.341460",
+            "command": "go to youtube.com",
+            "intent": "browser_control",
+            "action_taken": "{'url': 'youtube.com'}",
+            "response": "Navigating to https://youtube.com.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:32:28.261602",
+            "command": "close youtube.com",
+            "intent": "system_execution",
+            "action_taken": "{'action': 'close', 'application': 'youtube.com'}",
+            "response": "Closed youtube.com.",
+            "success": true,
+            "session_id": "1775055536"
+        },
+        {
+            "timestamp": "2026-04-01T20:36:25.467602",
+            "command": "open browser",
+            "intent": "browser_control",
+            "action_taken": "{}",
+            "response": "Browser opened.",
+            "success": true,
+            "session_id": "1775055931"
+        },
+        {
+            "timestamp": "2026-04-01T20:36:33.569766",
+            "command": "go to youtube.com",
+            "intent": "browser_control",
+            "action_taken": "{'url': 'youtube.com'}",
+            "response": "Navigating to https://youtube.com.",
+            "success": true,
+            "session_id": "1775055931"
+        },
+        {
+            "timestamp": "2026-04-01T20:36:47.875418",
+            "command": "what is the time",
+            "intent": "question_answering",
+            "action_taken": "{'question': 'what is the time', 'qa_type': 'datetime'}",
+            "response": "The current time is 08:36 PM.",
+            "success": true,
+            "session_id": "1775055931"
+        }
+    ],
+    "priority_cache": {
+        "system_execution:open notepad": {
+            "count": 2,
+            "intent": "system_execution",
+            "command_pattern": "open notepad",
+            "last_used": "2026-03-20T09:02:29.376937"
+        },
+        "browser_control:send whatsapp message": {
+            "count": 14,
+            "intent": "browser_control",
+            "command_pattern": "send whatsapp message",
+            "last_used": "2026-04-01T20:19:22.627958"
+        },
+        "browser_control:send whatsapp": {
+            "count": 1,
+            "intent": "browser_control",
+            "command_pattern": "send whatsapp",
+            "last_used": "2026-03-20T09:02:20.147951"
+        },
+        "browser_control:type hi chetan": {
+            "count": 3,
+            "intent": "browser_control",
+            "command_pattern": "type hi chetan",
+            "last_used": "2026-04-01T20:30:09.362715"
+        },
+        "system_execution:close notepad": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "close notepad",
+            "last_used": "2026-03-20T09:02:51.130337"
+        },
+        "system_execution:i said close": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "i said close",
+            "last_used": "2026-03-20T09:02:57.657680"
+        },
+        "system_execution:open notepad and": {
+            "count": 4,
+            "intent": "system_execution",
+            "command_pattern": "open notepad and",
+            "last_used": "2026-04-01T20:29:57.121326"
+        },
+        "browser_control:type hi": {
+            "count": 1,
+            "intent": "browser_control",
+            "command_pattern": "type hi",
+            "last_used": "2026-03-20T09:05:08.136632"
+        },
+        "browser_control:type chetan": {
+            "count": 1,
+            "intent": "browser_control",
+            "command_pattern": "type chetan",
+            "last_used": "2026-03-20T09:05:16.587215"
+        },
+        "system_execution:open whatsapp and": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "open whatsapp and",
+            "last_used": "2026-03-20T09:05:39.753431"
+        },
+        "unknown:to queen papa": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "to queen papa",
+            "last_used": "2026-03-20T09:06:19.494872"
+        },
+        "browser_control:message to amma": {
+            "count": 1,
+            "intent": "browser_control",
+            "command_pattern": "message to amma",
+            "last_used": "2026-03-20T09:07:01.164533"
+        },
+        "unknown:passing": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "passing",
+            "last_used": "2026-03-20T09:07:17.490189"
+        },
+        "unknown:nexus stopped": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "nexus stopped",
+            "last_used": "2026-03-20T09:07:52.331262"
+        },
+        "browser_control:send message to": {
+            "count": 4,
+            "intent": "browser_control",
+            "command_pattern": "send message to",
+            "last_used": "2026-04-01T15:12:16.284739"
+        },
+        "system_execution:open youtube": {
+            "count": 2,
+            "intent": "system_execution",
+            "command_pattern": "open youtube",
+            "last_used": "2026-03-20T09:15:34.162375"
+        },
+        "browser_control:open chrome and": {
+            "count": 1,
+            "intent": "browser_control",
+            "command_pattern": "open chrome and",
+            "last_used": "2026-03-20T09:15:21.097222"
+        },
+        "unknown:chitra vichitra matar": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "chitra vichitra matar",
+            "last_used": "2026-03-20T11:48:36.897484"
+        },
+        "unknown:comment comment": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "comment comment",
+            "last_used": "2026-03-20T11:48:50.083882"
+        },
+        "unknown:nagpur": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "nagpur",
+            "last_used": "2026-03-20T11:49:00.867853"
+        },
+        "unknown:and channel ko": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "and channel ko",
+            "last_used": "2026-03-20T11:49:05.009523"
+        },
+        "system_execution:open chrome": {
+            "count": 4,
+            "intent": "system_execution",
+            "command_pattern": "open chrome",
+            "last_used": "2026-04-01T20:30:34.704723"
+        },
+        "browser_control:open browser": {
+            "count": 5,
+            "intent": "browser_control",
+            "command_pattern": "open browser",
+            "last_used": "2026-04-01T20:36:25.467602"
+        },
+        "unknown:chitra": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "chitra",
+            "last_used": "2026-03-20T11:50:03.363134"
+        },
+        "browser_control:type in notepad": {
+            "count": 1,
+            "intent": "browser_control",
+            "command_pattern": "type in notepad",
+            "last_used": "2026-03-20T11:50:14.783640"
+        },
+        "system_execution:open settings": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "open settings",
+            "last_used": "2026-03-20T11:50:32.584399"
+        },
+        "system_execution:open whatsapp": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "open whatsapp",
+            "last_used": "2026-03-20T11:50:45.641295"
+        },
+        "unknown:ok stop": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "ok stop",
+            "last_used": "2026-03-20T11:50:49.869940"
+        },
+        "unknown:mithila ke fayde": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "mithila ke fayde",
+            "last_used": "2026-04-01T15:13:10.748005"
+        },
+        "unknown:original": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "original",
+            "last_used": "2026-04-01T15:13:20.148195"
+        },
+        "unknown:industrial actual speaking": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "industrial actual speaking",
+            "last_used": "2026-04-01T15:13:27.339173"
+        },
+        "system_execution:shutdown": {
+            "count": 2,
+            "intent": "system_execution",
+            "command_pattern": "shutdown",
+            "last_used": "2026-04-01T20:19:29.933620"
+        },
+        "system_execution:pin code number": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "pin code number",
+            "last_used": "2026-04-01T15:13:56.521124"
+        },
+        "unknown:tube.com": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "tube.com",
+            "last_used": "2026-04-01T20:10:29.119828"
+        },
+        "question_answering:what is the": {
+            "count": 2,
+            "intent": "question_answering",
+            "command_pattern": "what is the",
+            "last_used": "2026-04-01T20:36:47.875418"
+        },
+        "question_answering:what is 25": {
+            "count": 2,
+            "intent": "question_answering",
+            "command_pattern": "what is 25",
+            "last_used": "2026-04-01T20:31:32.483570"
+        },
+        "unknown:rahul saying hello": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "rahul saying hello",
+            "last_used": "2026-04-01T20:11:26.421218"
+        },
+        "browser_control:chrome": {
+            "count": 1,
+            "intent": "browser_control",
+            "command_pattern": "chrome",
+            "last_used": "2026-04-01T20:11:39.755286"
+        },
+        "unknown:dot com": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "dot com",
+            "last_used": "2026-04-01T20:11:53.270710"
+        },
+        "browser_control:youtube.com": {
+            "count": 3,
+            "intent": "browser_control",
+            "command_pattern": "youtube.com",
+            "last_used": "2026-04-01T20:31:59.917166"
+        },
+        "unknown:news": {
+            "count": 1,
+            "intent": "unknown",
+            "command_pattern": "news",
+            "last_used": "2026-04-01T20:12:27.225673"
+        },
+        "system_execution:turn up the": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "turn up the",
+            "last_used": "2026-04-01T20:12:39.976925"
+        },
+        "system_execution:take a screenshot": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "take a screenshot",
+            "last_used": "2026-04-01T20:19:09.078579"
+        },
+        "question_answering:what is time": {
+            "count": 1,
+            "intent": "question_answering",
+            "command_pattern": "what is time",
+            "last_used": "2026-04-01T20:31:46.355211"
+        },
+        "system_execution:open youtube.com": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "open youtube.com",
+            "last_used": "2026-04-01T20:32:05.703027"
+        },
+        "browser_control:go to youtube.com": {
+            "count": 2,
+            "intent": "browser_control",
+            "command_pattern": "go to youtube.com",
+            "last_used": "2026-04-01T20:36:33.569766"
+        },
+        "system_execution:close youtube.com": {
+            "count": 1,
+            "intent": "system_execution",
+            "command_pattern": "close youtube.com",
+            "last_used": "2026-04-01T20:32:28.261602"
+        }
+    },
+    "corrections": []
+}

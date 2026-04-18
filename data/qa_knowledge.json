@@ -1,0 +1,36 @@
+{
+    "questions": [
+        {
+            "question": "What is NEXUS?",
+            "answer": "NEXUS is an intelligent voice-activated system control assistant with simulation-based decision intelligence, designed to give users complete hands-free control over their computer."
+        },
+        {
+            "question": "What is artificial intelligence?",
+            "answer": "Artificial intelligence is the simulation of human intelligence processes by computer systems, including learning, reasoning, and self-correction."
+        },
+        {
+            "question": "What is machine learning?",
+            "answer": "Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed, using algorithms that identify patterns in data."
+        },
+        {
+            "question": "What is deep learning?",
+            "answer": "Deep learning is a subset of machine learning that uses artificial neural networks with multiple layers to model and understand complex patterns in data."
+        },
+        {
+            "question": "What is natural language processing?",
+            "answer": "Natural language processing is a branch of artificial intelligence that deals with the interaction between computers and humans using natural language, enabling machines to read, understand, and derive meaning from human languages."
+        },
+        {
+            "question": "What is a neural network?",
+            "answer": "A neural network is a computing system inspired by biological neural networks in the human brain. It consists of interconnected nodes organized in layers that process information using connectionist approaches to computation."
+        },
+        {
+            "question": "What is simulation-based decision making?",
+            "answer": "Simulation-based decision making is a technique that uses Monte Carlo sampling and probabilistic modeling to evaluate multiple scenarios, score them using utility functions, and select the optimal choice based on weighted criteria."
+        },
+        {
+            "question": "What is the purpose of voice authentication?",
+            "answer": "Voice authentication in NEXUS uses a spoken passkey sequence hashed with SHA-256 to verify user identity, ensuring only authorized users can operate the system."
+        }
+    ]
+}

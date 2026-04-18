@@ -1,0 +1,29 @@
+# NEXUS - Voice-Activated System Control Assistant
+# Core Dependencies
+
+# Speech Recognition
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+vosk>=0.3.45
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# System Automation
+pyautogui>=0.9.54
+keyboard>=0.13.5
+
+# Scientific / Simulation
+numpy>=1.24.0
+matplotlib>=3.7.0
+sympy>=1.12
+
+# Question Answering
+wikipedia-api>=0.6.0
+requests>=2.31.0
+
+# GUI
+# tkinter is included with Python standard library
+
+# Testing
+pytest>=7.4.0

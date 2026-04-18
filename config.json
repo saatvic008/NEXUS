@@ -1,0 +1,47 @@
+{
+    "assistant_name": "NEXUS",
+    "wake_word": "hey nexus",
+    "passkey_hash": "9079f9e5657117bb144a4a50709c4fb5c42558649d6caccb66aabf87faaa8073",
+    "passkey_set": true,
+    "security": {
+        "max_failed_attempts": 3,
+        "lockout_duration_seconds": 60,
+        "idle_timeout_seconds": 300,
+        "log_failed_attempts": true
+    },
+    "listener": {
+        "engine": "google",
+        "mic_index": 1,
+        "vosk_model_path": "models/vosk-model-small-en-us",
+        "energy_threshold": 200,
+        "pause_threshold": 0.6,
+        "listen_timeout": 3,
+        "phrase_time_limit": 10,
+        "wake_phrase_time_limit": 3
+    },
+    "tts": {
+        "rate": 175,
+        "volume": 0.9,
+        "voice_index": 0
+    },
+    "nlu": {
+        "confidence_threshold": 0.7,
+        "use_llm": false,
+        "ollama_model": "mistral",
+        "ollama_url": "http://localhost:11434"
+    },
+    "hud": {
+        "enabled": true,
+        "position": "bottom_right",
+        "opacity": 0.85,
+        "width": 400,
+        "height": 200
+    },
+    "paths": {
+        "qa_knowledge": "data/qa_knowledge.json",
+        "memory_log": "data/memory_log.json",
+        "decision_history": "data/decision_history.json"
+    },
+    "weather_api_key": "",
+    "weather_city": "New York"
+}
