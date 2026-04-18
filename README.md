@@ -214,3 +214,8 @@ This project is developed as part of an academic submission for ISSD (Intelligen
 ---
 
 **NEXUS** — *Your voice is the command. The machine is the extension.*
+
+## 👨‍💻 Contributors
+
+- [Chetan Saatvic Reddy](https://github.com/saatvic008)
+- [Srichaithra](https://github.com/vyshnavii-007)
