@@ -1,3 +1,5 @@
+# NEXUS
+Simulation-based intelligent assistant using adaptive learning, probabilistic decision-making, and real-time system automation.
 # NEXUS — Intelligent Voice-Activated System Control Assistant
 
 **An AI-powered, voice-unlocked, voice-operated computer control system with simulation-based decision intelligence.**
